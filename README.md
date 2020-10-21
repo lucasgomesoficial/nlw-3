@@ -5,6 +5,8 @@ Full Application was developed on Next Level Week #3 event by @Rocketseat
 - React<br>
 - React Native<br>
 - React Router Dom<br>
+- React Leaflet<br>
+- React NAvigation<br>
 - React Dom<br>
 - Node.js<br>
 - Axios<br>
@@ -15,3 +17,5 @@ Full Application was developed on Next Level Week #3 event by @Rocketseat
 - Multer<br>
 - Path<br>
 - Cors<br>
+- Expo<br>
+
