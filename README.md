@@ -6,7 +6,7 @@ Full Application was developed on Next Level Week #3 event by @Rocketseat
 - React Native<br>
 - React Router Dom<br>
 - React Leaflet<br>
-- React NAvigation<br>
+- React Navigation<br>
 - React Dom<br>
 - Node.js<br>
 - Axios<br>
